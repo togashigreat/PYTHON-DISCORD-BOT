@@ -1,13 +1,12 @@
 # Simple Python Discord Bot
 ### Required Python Libraries:
-#### 1. PyNaCl
-#### 2. pillow
-#### 3. youtube_dl 
-#### 4. Flask
-#### 5. openai
-#### 6. easy_pil
-#### 7. colorama
-#### 8. discord.py
+#### copy & paste it in terminal 
 
 `pip install discord.py pillow Flask openai easy_pil colorama youtube_dl PyNaCl`
 
+### 🗂 All Commands:
+#### 📄 all the commands are available in cogs directory welcome.py & goodbye.py is for welcoming a when a member joins in a server and sends good message when a member leaves 
+
+#### 📄 to make the goodbye.py and welcome.py work put your server goodbye and welcome channel ID in _server.json_
+
+#### there's a command named chatgpt to make this command work use your openai api key 
