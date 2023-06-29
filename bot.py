@@ -42,5 +42,5 @@ class MyBot(commands.Bot):
 if __name__ == '__main__':
     #prefix fo4 commands
     bot = MyBot(command_prefix='!', intents=discord.Intents.all())
-    TOKEN = 'MTA0OTQxNzAzNTU1MTA5NjkxMw.G8LQfW.J0W9Nyh7_-vRjhpLCGC9BQwCDuwrzNHq5VFmT4'
+    TOKEN = "YOUR TOKEN"
     bot.run(TOKEN)
