@@ -8,3 +8,6 @@
 #### 6. easy_pil
 #### 7. colorama
 #### 8. discord.py
+
+`pip install discord.py pillow Flask openai easy_pil colorama youtube_dl PyNaCl`
+
