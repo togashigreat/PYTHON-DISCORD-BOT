@@ -1,4 +1,5 @@
-# Simple Python Discord Bot
+<h1 text-align="center">Simple Python Discord Bot</h1>
+
 ### Required Python Libraries:
 #### copy & paste it in terminal 
 
