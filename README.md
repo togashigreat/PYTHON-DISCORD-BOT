@@ -1,4 +1,6 @@
-<h1 text-align="center">Simple Python Discord Bot</h1>
+<h1 align="center">Simple Python Discord Bot</h1>
+
+<img alt="Python 3.11" src="https://img.shields.io/badge/Python-3.11-blue">
 
 ### Required Python Libraries:
 #### copy & paste it in terminal 
