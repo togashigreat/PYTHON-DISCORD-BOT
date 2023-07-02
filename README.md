@@ -16,6 +16,7 @@ Just clone this this repository using `git clone` command.
 
 And Edit the **bot.py** file Put your bot Token in the token variable that's all.
 And then Run the bot 
+
 `python3 bot.py`
 
 
