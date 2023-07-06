@@ -47,3 +47,7 @@ The **'welcome.py** sends a random img from the 3 given images also same for **g
 You can inlude more pictures and edit those two file and put the img file name in the list. Recommended resolution is 1920x1080.
 
 
+### 📜LICENSE 
+This project is Licensed under MIT LICENSE check <a href="LICENSE">LICENSE</a> file.
+
+
