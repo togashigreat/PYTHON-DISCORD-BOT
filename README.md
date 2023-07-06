@@ -5,7 +5,11 @@
 <img alt="Discord" src="https://img.shields.io/pypi/v/discord.py.svg">
 </div>
 
-----------
+---------
+
+
+<span style="color:#520099;">or make it blue</span>
+
 
 
 ### Installation
