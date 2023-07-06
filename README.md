@@ -5,15 +5,13 @@
 <img alt="Discord" src="https://img.shields.io/pypi/v/discord.py.svg">
 </div>
 
----------
+----------
 
 
-<span style="color:#520099;">or make it blue</span>
-
+⚠️Single server bot
 
 
 ### Installation
-
 Just clone this this repository using `git clone` command.
 
 `cd PYTHON-DISCORD-BOT`
