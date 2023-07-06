@@ -1,4 +1,4 @@
-<h1 align="center">[Rikka] Python Discord Bot</h1>
+<h1 align="center">[Rikka v1] Python Discord Bot</h1>
 
 <div>
 <img alt="Python 3.11" src="https://img.shields.io/badge/Python-3.10_|_3.11-blue">
